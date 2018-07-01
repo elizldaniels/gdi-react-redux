@@ -10,6 +10,6 @@ import './style.css';
 import App from './App.jsx';
 
 ReactDOM.render(
-	<App />
+	<App />,
 	document.getElementById('app-root')
 );
