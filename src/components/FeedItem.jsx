@@ -7,6 +7,11 @@ import React from 'react';
 // import Likes, include it underneath img
 // export the component!
 
+class FeedItem {
+
+
+}
+
 // Exercise 3: Prop It Up
 // Need to pass in props as params to the component.
 // Need to destructure what you need from the props.
